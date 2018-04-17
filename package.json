@@ -1,0 +1,14 @@
+{
+  "name": "kochab-express-into",
+  "version": "1.0.0",
+  "description": "express lecture for kochab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Liz Goff",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
